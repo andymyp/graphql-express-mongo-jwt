@@ -16,7 +16,7 @@ git clone https://github.com/andymyp/graphql-express-mongo-jwt.git
 ```
 
 ```bash
-cd graphql-express-mongo-jwt.git
+cd graphql-express-mongo-jwt
 ```
 
 ```bash
